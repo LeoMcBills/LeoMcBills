@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LeoMcBills
 - 👀 I’m interested in Python Programming 
-- 🌱 I’m currently learning AI and Machine learning with TensorFlow, Python.
-- 💞️ I’m looking to collaborate on the stated above.
 - 📫 reach me at leokinyera9@gmail.com
 
 <!---

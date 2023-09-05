@@ -1,4 +1,3 @@
-# Hi there, I only need stable internet
 [![MasterHead](https://unsplash.com/photos/KE0nC8-58MQ)](https://rishavchanda.io)
 <h1 align="center">Hello there 👋, I'm Leo McBills</h1>
 <h3 align="center">A passionate fullStack developer from Uganda</h3>

@@ -1,4 +1,4 @@
-[![MasterHead](https://unsplash.com/photos/KE0nC8-58MQ)](https://rishavchanda.io)
+![MasterHead](https://unsplash.com/photos/KE0nC8-58MQ)
 <h1 align="center">Hello there 👋, I'm Leo McBills</h1>
 <h3 align="center">A passionate fullStack developer from Uganda</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">

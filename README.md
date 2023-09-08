@@ -1,6 +1,6 @@
 ![Header](./github-header-image(3).png)
 <h1 align="center">Hello there 👋, I'm Leo McBills</h1>
-<h3 align="center">A passionate fullStack developer from Uganda</h3>
+<h3 align="center">A passionate Full Stack Developer from Uganda</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leomcbills&show_icons=true&theme=gotham" alt="leomcbills" /></p>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 

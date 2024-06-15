@@ -1,8 +1,8 @@
 ![Header](./github-header-image(3).png)
 <section>
 <h1 align="center">Hello there 👋, I'm Leo Kinyera</h1>
-<h3 align="center">A passionate Full Stack Developer from Uganda</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leomcbills&show_icons=true&theme=gotham" alt="leomcbills" /></p>
+<h3 align="center">A passionate ML Researcher from Uganda</h3>
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leomcbills&label=Profile%20views&color=0e75b6&style=flat" alt="leomcbills" /> </p>

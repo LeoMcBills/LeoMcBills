@@ -1,80 +1,47 @@
-<!-- 
-Hi Leo! This version takes a minimalist and professional approach.
-It focuses on clean typography, clear structure, and readability,
-presenting you and your skills in an elegant, direct way.
--->
-
 ![Header](./github-header-image(3).png)
 
 <div align="center">
-  <h1>
-    Leo Kinyera
-  </h1>
-  <h3>
-    AI & Machine Learning Researcher | Python Developer
-  </h3>
-</div>
-
-<div align="center">
-  <a href="https://linkedin.com/in/leokinyera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/leokinyera" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://kaggle.com/leomcbills" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
-  <a href="https://stackoverflow.com/users/11996221/leo-mcbills" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="mailto:leokinyera81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <h1>Leo Kinyera</h1>
+  <p><strong>AI & Machine Learning Researcher building intelligent solutions for real-world impact.</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/leokinyera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://twitter.com/leokinyera" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://kaggle.com/leomcbills" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+    <a href="mailto:leokinyera81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  </p>
 </div>
 
 ---
-
-### About Me
-
-I am an AI & Machine Learning Researcher from Uganda with a strong foundation in building and deploying intelligent systems. My work focuses on leveraging data-driven approaches to solve complex, real-world challenges. I am passionate about clean code, robust architecture, and creating applications that are both powerful and impactful.
-
-- 🔭 Currently exploring **end-to-end MLOps pipelines** and **optimizing models for edge deployment**.
-- 🌱 I'm always learning, with a current focus on **PyTorch** and **advanced computer vision techniques**.
-- 👯 I’m open to collaborating on **impactful open-source AI projects**.
-- 📫 You can reach me at: **leokinyera81@gmail.com**
-
----
-
-### My Technical Skill Set
-
-My skills span across the full project lifecycle, from data processing and model development to backend integration.
-
-#### 🧠 AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-
-#### ⚙️ Backend & DevOps
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-#### 🌐 Web & Other Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
----
-
-### My GitHub Activity & Stats
 
 <p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leomcbills&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomcbills&layout=compact&langs_count=8&theme=github_dark" />
+  I'm a researcher and developer from Uganda, driven by a passion for solving complex problems through technology. My expertise lies in the full lifecycle of machine learning projects—from data exploration and model architecture to deployment and integration. I thrive on building robust, scalable, and impactful AI applications.
 </p>
 
 ---
 
-### ⭐ Pinned Projects
+### 🚀 Core Competencies
 
-These are the projects I'm most proud of. Please feel free to explore the repositories.
-<!-- Your pinned projects will appear automatically on your profile page -->
+This table highlights my primary areas of technical expertise.
+
+| Area                       | Technologies                                                                                                                                                                                                                                                                                                                         |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **AI & Data Science**      | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow"> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white" alt="Numpy"> |
+| **Backend & DevOps**       | <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"> |
+| **Frontend & Design**      | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"> |
+
+---
+
+### ⭐ Project Spotlight
+
+Here are a few projects that I'm particularly proud of.
+
+<!-- 
+IMPORTANT: Replace these with your own projects. 
+- Get the link to your repository.
+- Write a short, impactful description.
+-->
+- 🔭 **[Project Name 1]** - A computer vision model for agricultural pest detection, built with TensorFlow and deployed via a Django REST API. `[Link to Repo]`
+- 🌱 **[Project Name 2]** - End-to-end data pipeline for analyzing public health trends, utilizing Pandas, PostgreSQL, and Docker. `[Link to Repo]`
+- ⚡ **[Project Name 3]** - Interactive web dashboard for visualizing ML model performance, created with JavaScript and Bootstrap. `[Link to Repo]`
+
+---

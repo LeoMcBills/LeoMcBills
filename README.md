@@ -13,6 +13,11 @@
 
 ---
 
+<!-- DYNAMIC TYPING BIO -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+%26+ML+Researcher+from+Uganda+solving+real-world+problems.;Building+robust%2C+scalable%2C+and+impactful+AI+solutions.;Mastering+the+end-to-end+Machine+Learning+lifecycle.;Bridging+intelligent+software+with+physical+hardware." alt="Dynamic Typing Bio" />
+</div>
+
 <p align="center">
   I'm a researcher and developer from Uganda, driven by a passion for solving complex problems through technology. My expertise lies in the full lifecycle of machine learning projects, from data exploration and model architecture to deployment and integration. I thrive on building robust, scalable, and impactful AI applications.
 </p>
@@ -32,8 +37,8 @@ This table highlights my primary areas of technical expertise.
 
 ---
 
-### 🚀 Quotes
-<!-- Dynamic Bio Section -->
-<a href="https://git.io/typing-svg">
-  <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=nord"es=AI%20%26%20ML%20Researcher%20from%20Uganda%20solving%20complex%20problems.;Mastering%20the%20end-to-end%20Machine%20Learning%20lifecycle.;Building%20robust%2C%20scalable%2C%20and%20impactful%20AI%20solutions.;Bridging%20the%20gap%20between%20intelligent%20software%20and%20physical%20hardware." alt="Dynamic Bio" />
-</a>
+### ✨ Quotes
+
+<div align="center">
+  <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=nord" alt="Inspirational Quotes" />
+</div>

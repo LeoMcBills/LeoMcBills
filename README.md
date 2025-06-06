@@ -31,3 +31,9 @@ This table highlights my primary areas of technical expertise.
 | **Frontend & Design**         | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"> |
 
 ---
+
+### 🚀 Quotes
+<!-- Dynamic Bio Section -->
+<a href="https://git.io/typing-svg">
+  <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=nord"es=AI%20%26%20ML%20Researcher%20from%20Uganda%20solving%20complex%20problems.;Mastering%20the%20end-to-end%20Machine%20Learning%20lifecycle.;Building%20robust%2C%20scalable%2C%20and%20impactful%20AI%20solutions.;Bridging%20the%20gap%20between%20intelligent%20software%20and%20physical%20hardware." alt="Dynamic Bio" />
+</a>

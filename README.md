@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Leo Kinyera</h1>
-  <p><strong>AI & Machine Learning Researcher building intelligent solutions for real-world impact.</strong></p>
+  <p><strong>AI & Machine Learning Researcher | Hardware & Embedded Systems Developer</strong></p>
   <p>
     <a href="https://linkedin.com/in/leokinyera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://twitter.com/leokinyera" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
@@ -12,6 +12,13 @@
 </div>
 
 ---
+
+<!-- FIXED DYNAMIC TYPING BIO -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7¢er=true&vCenter=true&width=850&lines=AI+%26+ML+Researcher+from+Uganda+solving+real-world+problems.;Building+robust%2C+scalable%2C+and+impactful+AI+solutions.;Mastering+the+end-to-end+Machine+Learning+lifecycle.;Bridging+intelligent+software+with+physical+hardware." alt="Dynamic Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
   I'm a researcher and developer from Uganda, driven by a passion for solving complex problems through technology. My expertise lies in the full lifecycle of machine learning projects—from data exploration and model architecture to deployment and integration. I thrive on building robust, scalable, and impactful AI applications.

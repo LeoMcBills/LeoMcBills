@@ -31,17 +31,3 @@ This table highlights my primary areas of technical expertise.
 
 ---
 
-### ⭐ Project Spotlight
-
-Here are a few projects that I'm particularly proud of.
-
-<!-- 
-IMPORTANT: Replace these with your own projects. 
-- Get the link to your repository.
-- Write a short, impactful description.
--->
-- 🔭 **[Project Name 1]** - A computer vision model for agricultural pest detection, built with TensorFlow and deployed via a Django REST API. `[Link to Repo]`
-- 🌱 **[Project Name 2]** - End-to-end data pipeline for analyzing public health trends, utilizing Pandas, PostgreSQL, and Docker. `[Link to Repo]`
-- ⚡ **[Project Name 3]** - Interactive web dashboard for visualizing ML model performance, created with JavaScript and Bootstrap. `[Link to Repo]`
-
----

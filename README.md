@@ -13,10 +13,10 @@
 
 ---
 
-<!-- FIXED DYNAMIC TYPING BIO -->
+<!-- FIXED DYNAMIC TYPING BIO WITH CACHE BUSTING -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7¢er=true&vCenter=true&width=850&lines=AI+%26+ML+Researcher+from+Uganda+solving+real-world+problems.;Building+robust%2C+scalable%2C+and+impactful+AI+solutions.;Mastering+the+end-to-end+Machine+Learning+lifecycle.;Bridging+intelligent+software+with+physical+hardware." alt="Dynamic Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7¢er=true&vCenter=true&width=850&lines=AI+%26+ML+Researcher+from+Uganda+solving+real-world+problems.;Building+robust%2C+scalable%2C+and+impactful+AI+solutions.;Mastering+the+end-to-end+Machine+Learning+lifecycle.;Bridging+intelligent+software+with+physical+hardware.&cache_bust=12345" alt="Dynamic Typing SVG" />
   </a>
 </div>
 

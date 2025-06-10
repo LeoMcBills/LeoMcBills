@@ -4,10 +4,10 @@
   <h1>Leo Kinyera</h1>
   <p><strong>AI & Machine Learning Researcher | Hardware & Embedded Systems Developer</strong></p>
   <p>
-    <a href="https://linkedin.com/in/leokinyera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
-    <a href="https://twitter.com/leokinyera" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter" height="28"></a>
     <a href="https://kaggle.com/leomcbills" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle" height="28"></a>
     <a href="mailto:leokinyera81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="28"></a>
+    <a href="https://twitter.com/leokinyera" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white" alt="Twitter" height="28"></a>
+    <a href="https://linkedin.com/in/leokinyera" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" height="28"></a>
   </p>
 </div>
 

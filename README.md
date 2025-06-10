@@ -16,6 +16,7 @@
 <!-- DYNAMIC TYPING BIO -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=AI+%26+ML+Researcher+from+Uganda+solving+real-world+problems.;Building+robust%2C+scalable%2C+and+impactful+AI+solutions.;Mastering+the+end-to-end+Machine+Learning+lifecycle.;Bridging+intelligent+software+with+physical+hardware." alt="Dynamic Typing Bio" />
+  <p><em>"Engineering the intersection of artificial intelligence and hardware to uplift African innovation."</em></p>
 </div>
 
 <p align="center">

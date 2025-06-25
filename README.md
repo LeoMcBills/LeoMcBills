@@ -45,7 +45,7 @@ A video walkthrough to understand MCP servers.
     <img src="https://img.youtube.com/vi/CDjjaTALI68/sddefault.jpg" alt="YouTube Video Thumbnail: Getting Started with KiCAD" width="600" />
   </a>
   <p>
-    <strong>Video: Understanding MCP From Scratch </strong>
+    <strong>Video: Understanding MCP From Scratch by LangChain</strong>
   </p>
 </div>
 

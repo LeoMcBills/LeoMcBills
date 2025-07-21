@@ -41,15 +41,13 @@ This table highlights my primary areas of technical expertise.
 A video walkthrough to understand MCP servers.
 
 <div align="center">
-  <a href="https://www.youtube.com/watch?v=CDjjaTALI68" target="_blank">
-    <img src="https://img.youtube.com/vi/CDjjaTALI68/sddefault.jpg" alt="YouTube Video Thumbnail: Getting Started with KiCAD" width="600" />
+  <a href="https://youtu.be/kQmXtrmQ5Zg" target="_blank">
+    <img src="https://i.ytimg.com/vi/kQmXtrmQ5Zg/sddefault.jpg" alt="YouTube Video Thumbnail: Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic" width="600" />
   </a>
   <p>
-    <strong>Video: Understanding MCP From Scratch by LangChain</strong>
+    <strong>Video: Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic</strong>
   </p>
 </div>
-
----
 
 ### ✨ Quotes
 

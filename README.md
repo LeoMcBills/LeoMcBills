@@ -43,15 +43,20 @@ This table highlights my primary areas of technical expertise.
 
 ### 🌟 This Week's Spotlight
 
-A video walkthrough to understand MCP servers.
+A visual preview of the latest theme enhancements on **MaRGE**—polished interfaces, refined usability, and system harmony brought to life.
 
 <div align="center">
-  <a href="https://youtu.be/kQmXtrmQ5Zg" target="_blank">
-    <img src="https://i.ytimg.com/vi/kQmXtrmQ5Zg/sddefault.jpg" alt="YouTube Video Thumbnail: Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic" width="600" />
-  </a>
-  <p>
-    <strong>Video: Building Agents with Model Context Protocol - Full Workshop with Mahesh Murag of Anthropic</strong>
-  </p>
+  <table>
+    <tr>
+      <td><img src="https://example.com/image1.jpg" alt="Theme Preview 1" width="250"/></td>
+      <td><img src="https://example.com/image2.jpg" alt="Theme Preview 2" width="250"/></td>
+    </tr>
+    <tr>
+      <td><img src="https://example.com/image3.jpg" alt="Theme Preview 3" width="250"/></td>
+      <td><img src="https://example.com/image4.jpg" alt="Theme Preview 4" width="250"/></td>
+    </tr>
+  </table>
+  <p><strong>Experience the rejuvenated look and feel of MaRGE—where functionality meets elegance.</strong></p>
 </div>
 
 ### ✨ Quotes

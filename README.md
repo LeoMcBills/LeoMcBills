@@ -56,7 +56,7 @@ A visual preview of the latest theme enhancements on **MaRGE**—polished interf
       <td><img src="dark2.png" alt="Theme Preview 4" width="500"/></td>
     </tr>
   </table>
-  <p><strong>Experience the rejuvenated look and feel of MaRGE—where functionality meets elegance.</strong></p>
+  <p><strong>Experience the rejuvenated look and feel of MaRGE, where functionality meets elegance.</strong></p>
 </div>
 
 ### ✨ Quotes

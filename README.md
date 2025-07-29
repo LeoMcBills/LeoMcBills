@@ -26,6 +26,10 @@
   I'm a researcher and developer from Uganda, driven by a passion for solving complex problems through technology. My expertise lies in the full lifecycle of machine learning projects, from data exploration and model architecture to deployment and integration. I thrive on building robust, scalable, and impactful AI applications.
 </p>
 
+<p align="center">
+  I am also passionate about designing and building hardware specifically designing and simulating PCB circuits.
+</p>
+
 ---
 
 ### 🚀 Core Competencies

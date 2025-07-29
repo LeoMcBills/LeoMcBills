@@ -48,12 +48,12 @@ A visual preview of the latest theme enhancements on **MaRGE**—polished interf
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://example.com/image1.jpg" alt="Theme Preview 1" width="250"/></td>
-      <td><img src="https://example.com/image2.jpg" alt="Theme Preview 2" width="250"/></td>
+      <td><img src="dark1.jpg" alt="Theme Preview 1" width="250"/></td>
+      <td><img src="dark4.jpg" alt="Theme Preview 2" width="250"/></td>
     </tr>
     <tr>
-      <td><img src="https://example.com/image3.jpg" alt="Theme Preview 3" width="250"/></td>
-      <td><img src="https://example.com/image4.jpg" alt="Theme Preview 4" width="250"/></td>
+      <td><img src="dark3.jpg" alt="Theme Preview 3" width="250"/></td>
+      <td><img src="dark2.jpg" alt="Theme Preview 4" width="250"/></td>
     </tr>
   </table>
   <p><strong>Experience the rejuvenated look and feel of MaRGE—where functionality meets elegance.</strong></p>

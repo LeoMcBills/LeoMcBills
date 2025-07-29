@@ -43,7 +43,7 @@ This table highlights my primary areas of technical expertise.
 
 ### 🌟 This Week's Spotlight
 
-A visual preview of the latest theme enhancements on **MaRGE**—polished interfaces, refined usability, and system harmony brought to life.
+A visual preview of the latest theme enhancements on **MaRGE**; polished interfaces, refined usability, and system harmony brought to life.
 
 <div align="center">
   <table>

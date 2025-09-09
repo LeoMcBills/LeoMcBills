@@ -44,7 +44,7 @@ This table highlights my primary areas of technical expertise.
 | **Frontend & Design**         | <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma"> |
 
 ---
-
+<!--
 ### 🌟 This Month's Spotlight
 
 A visual preview of the latest theme enhancements I made to **MaRGE**; polished interfaces, refined usability, and system harmony brought to life.
@@ -62,6 +62,7 @@ A visual preview of the latest theme enhancements I made to **MaRGE**; polished 
   </table>
   <p><strong>Experience the rejuvenated look and feel of MaRGE, where functionality meets elegance.</strong></p>
 </div>
+-->
 
 ### ✨ Quotes
 

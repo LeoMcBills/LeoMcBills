@@ -32,7 +32,7 @@
 
 ---
 
-### 🚀 Core Competencies
+### Core Competencies
 
 This table highlights my primary areas of technical expertise.
 
@@ -45,7 +45,7 @@ This table highlights my primary areas of technical expertise.
 
 ---
 <!--
-### 🌟 This Month's Spotlight
+### This Month's Spotlight
 
 A visual preview of the latest theme enhancements I made to **MaRGE**; polished interfaces, refined usability, and system harmony brought to life.
 
@@ -64,7 +64,7 @@ A visual preview of the latest theme enhancements I made to **MaRGE**; polished 
 </div>
 -->
 
-### ✨ Quotes
+### Quotes
 
 <div align="center">
   <img src="https://quotes-readme.vercel.app/api?type=horizontal&theme=nord" alt="Inspirational Quotes" />

@@ -23,7 +23,7 @@
 </div>
 
 <p align="center">
-  I'm a researcher and developer from Uganda, driven by a passion for solving complex problems through technology. My expertise lies in the full lifecycle of machine learning projects, from data exploration and model architecture to deployment and integration. I thrive on building robust, scalable, and impactful AI applications.
+  I'm an MRI trainee at Johns Hopkins, focusing on building solutions for MRI.
 </p>
 
 <p align="center">

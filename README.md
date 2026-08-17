@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Leo Kinyera</h1>
-  <p><strong>AI & Machine Learning Researcher | Hardware & Embedded Systems Developer</strong></p>
+  <p><strong>Biomedical Engineer</strong></p>
   <p>
     <a href="https://kaggle.com/leomcbills" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle" height="28"></a>
     <a href="mailto:leokinyera81@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" alt="Gmail" height="28"></a>

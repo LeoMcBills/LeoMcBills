@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](github-header-banner.png)
 
 <div align="center">
   <h1>Leo Kinyera</h1>
